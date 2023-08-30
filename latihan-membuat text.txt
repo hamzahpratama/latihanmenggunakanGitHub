@@ -1,0 +1,3 @@
+ok ini adalah file dengan format txt yang akan saya buat
+kedepannya saya mau membuat sebuah website dengan fitur yang menarik
+untuk saat ini saya hanya akan mencoba memahami cara kerja dari situs github ini
