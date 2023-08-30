@@ -1,5 +1,7 @@
 ok ini adalah file dengan format txt yang akan saya buat
 kedepannya saya mau membuat sebuah website dengan fitur yang menarik
 untuk saat ini saya hanya akan mencoba memahami cara kerja dari situs github ini
-saya edit sebentar guys
-saya mau melihat perubahannya
+saya akan membuat banyak perubahan dan akan saya simpan di GitHub
+saya juga akan sering upload jika sudah memahami sistem dari github ini
+oh iya kedepannya saya mau membuat file html, css, dan javascript yang akan saya upload ke github ini
+tetap staytune di sini guys
